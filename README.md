@@ -1,2 +1,11 @@
-# insta-followz
-instaFollowz webapp based on jInstagram sample
+## InstaFollowz web app
+
+A small sample, based on a [jInstagram-examples](https://github.com/sachin-handiekar/jInstagram-examples) project.
+
+## Build
+
+* The project uses [maven](http://maven.apache.org/) and [jInstagram](https://github.com/sachin-handiekar/jInstagram) library.
+
+## License
+
+Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
